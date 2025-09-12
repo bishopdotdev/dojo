@@ -2,7 +2,7 @@
 
 # Description
 
-This is a repository for all my coding problems and solutions.
+I want to learn more about Rust and improve my coding skills. This repo is a place where I can practice and share my solutions to coding problems on various platforms.
 
 # Directory Structure
 
