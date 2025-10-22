@@ -22,4 +22,3 @@ Coming soon...
 
 # Test
 Changes from Omarchy
-test
